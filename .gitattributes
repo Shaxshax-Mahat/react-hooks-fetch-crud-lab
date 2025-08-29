@@ -1,0 +1,2 @@
+# Set line endings for db.json to LF to avoid CRLF warning on Windows
+db.json text eol=lf
